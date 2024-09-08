@@ -1,0 +1,77 @@
+.hero-bg{
+    background-color: rgb(0, 68, 0);
+    height: auto;
+    width: 100%;
+}
+.hero-heading{
+    margin-top: 200px;
+    margin-bottom: 200px
+}
+.hero-img{
+    margin-top: 250px;
+    margin-bottom: 250px;
+    padding-left: 280px;
+}
+.cbtn{
+    box-sizing: border-box;
+    padding: 10px 30px;
+    margin-top: 30px;
+    border-radius: 30px;
+    border: none;
+    transition: 0.2s all ease-in;
+}
+
+/* hero end */
+.card{
+    border: none !important;
+    background-color: aliceblue;
+}
+.card img{
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+}
+
+/* card end */
+.service-bg{
+    background-color: rgb(0, 31, 0);
+    height: auto;
+    width: 100%;
+    color: white;
+}
+
+.plus{
+    display:flex;
+    justify-content: space-between;
+
+}
+/* service end */
+.input-design{
+    border: none;
+outline: none;
+
+}
+.input-design:focus{
+    border: none;
+    outline: none;
+}
+
+.ff hr{
+    width: 20%;
+}
+.btn-m{
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(0, 31, 0) !important;
+    border-radius: 30px;
+}
+
+/* form end */
+
+.ftr-bg{
+    background-color: rgb(0, 31, 0);
+    color: aliceblue;
+    height: auto;
+    width: 100%;
+}
+/* The End */
